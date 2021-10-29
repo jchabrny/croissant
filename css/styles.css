@@ -1,5 +1,28 @@
 body {
   background-color: #a6f2db;
   color: white;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+p {
+  font-size: 24px;
+}
+
+footer a {
+  margin: 0 10px;
+  color: blue;
+}
+
+.text-center {
   text-align: center;
+}
+
+.brioche-photo {
+  max-width: 25%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
